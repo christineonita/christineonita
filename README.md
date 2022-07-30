@@ -8,7 +8,7 @@
 - Drexel University junior studying Electrical Engineering  - with a minor in Software Engineering
 - 🥅 2022/23 Goals: Learn more about Back End Development
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="LinkedIn" width="40px" src="./images/linkedin_dark.png" style="padding-right:10px;" />](https://linkedin.com/in/christineonita#gh-dark-mode-only)
 [<img align="left" alt="LinkedIn" width="40px" src="./images/linkedin_light.png" style="padding-right:10px;" />](https://linkedin.com/in/christineonita#gh-light-mode-only)
