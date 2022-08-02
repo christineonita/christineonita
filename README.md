@@ -43,7 +43,7 @@
 ---
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onitachristine&layout=compact&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onitachristine&layout=compact&langs_count=8&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=onitachristine&theme=graywhite" alt="onitachristine" /></p> --->
