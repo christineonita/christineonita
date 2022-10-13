@@ -2,8 +2,7 @@
 
 ## About Me
 
-- Drexel University junior studying Electrical Engineering  - with a minor in Software Engineering
-- 🥅 2022/23 Goals: Learn more about Back End Development
+- Drexel University senior studying Electrical Engineering - with a minor in Software Engineering
 
 ### Contact me:
 
