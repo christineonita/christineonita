@@ -24,10 +24,8 @@
 [<img align="left" alt="Xcode" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" style="padding-right:10px;" />](https://developer.apple.com/xcode/)
 [<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />](https://www.java.com/)
 [<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Bash/Shell" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="MATLAB" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/products/matlab.html)
-[<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com)
 [<img align="left" alt="Gradle" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />](https://gradle.org)
 [<img align="left" alt="Gitlab" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />](https://gitlab.com)
 
