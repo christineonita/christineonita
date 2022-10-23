@@ -39,9 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christineonita&layout=compact&langs_count=10&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://tokei.rs/b1/github/XAMPPRocky/tokei)](https://github.com/XAMPPRocky/tokei)
-[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?category=files)](https://github.com/XAMPPRocky/tokei)
-
 
 
 
